@@ -1,0 +1,340 @@
+name,g1,g2,g3,market_cap,MAU,funding
+stellar,L1,BFT,,2101524834,,39000000
+zilliqa,L1,BFT,,160525813,,22000000
+ripple,L1,BFT,,,,93600000
+algorand,L1,BFT,,99481254,,66000000
+aion,L1,BFT,,42625672,,
+grain,L1,BFT,,,,11303218
+maidsafe,L1,BFT,,,,7581191
+ltonetwork,L1,BFT,,22703136,,4082770
+hyperledgerfabric,L1,BFT,,,,
+tendermint,L1,BFT,,,,
+iota,L1,DAGs,,1121643762,,591863
+holochain,L1,DAGs,,,,
+nano,L1,DAGs,,169655276,,
+hederahashgraph,L1,DAGs,,,,118000000
+siacoin,L1,DAGs,,128785511,,
+fantom,L1,DAGs,,54838261,,39653398
+syscoin,L1,DAGs,,25103675,,
+vite,L1,DAGs,,10506637,,28000000
+byteball,L1,DAGs,,,,
+hycon,L1,DAGs,,35917974,,22932600
+dexon,L1,DAGs,,,,3000000
+radix,L1,DAGs,,,,
+ontology,L1,BFT,,946857483,,
+neo,L1,BFT,,1190061501,,5050000
+eos,L1,POS,,6160610564,,196874404
+tron,L1,POS,,2169513066,,70000000
+lisk,L1,POS,,240883253,,5750000
+icon,L1,POS,,146711161,,42750000
+steem,L1,POS,,114271948,,
+bitshares,L1,POS,,165965550,,
+ark,L1,POS,,63792708,,
+nebulas,L1,POS,,66924539,,60000000
+aelf,L1,POS,,93959940,,24750000
+wax,L1,POS,,81413607,,9600000
+contentos,L1,POS,,,,53000000
+aergo,L1,POS,,15080170,,30000000
+shipchain,L1,POS,,,,30000000
+tierion,L1,POS,,25511780,,26000000
+newtonproject,L1,POS,,,,25114550
+iotex,L1,POS,,29432055,,14025000
+dacc,L1,POS,,1193412,,13529004
+lamden,L1,POS,,3314123,,10000000
+achain,L1,POS,,19844406,,
+horizen,L1,Masternodes,,65186510,,
+essentia,L1,Masternodes,,1161978,,25500000
+nuls,L1,Masternodes,,60999209,,
+zenprotocol,L1,Masternodes,,6894701,,17118077
+blocknet,L1,Masternodes,,11397251,,
+stakenet,L1,Masternodes,,8397886,,
+nix,L1,Masternodes,,12577431,,
+polis,L1,Masternodes,,,,
+beetlecoin,L1,Masternodes,,1875468,,
+wagerr,L1,Masternodes,,12540126,,
+nkn,L1,MOCA,,22050054,,12600000
+boscoin,L1,BFT,,10601308,,14700000
+nem,L1,POA,,822018154,,
+vechain,L1,POA,,462653735,,
+powerledger,L1,POA,,48409323,,35007383
+yggdrash,L1,POA,,2794343,,40000000
+singularitynet,L1,POA,,22874447,,32847814
+universa,L1,POA,,9745816,,28559233
+gochain,L1,POA,,12959733,,13685000
+poanetwork,L1,POA,,7076326,,
+haratoken,L1,POA,,,,5474000
+telegram,L1,POS,,,,1700000000
+cosmos,L1,POS,,1332643714,,17300000
+tezos,L1,POS,,757236793,,232000000
+qtum,L1,POS,,481433787,,17000000
+orbs,L1,POS,,,,133400000
+iost,L1,POS,,154090484,,31255000
+polkadot,L1,POS,,,,140000000
+stratis,L1,POS,,87657087,,
+ardor,L1,POS,,113786378,,
+polybius,L1,POS,,6210309,,62956169
+factom,L1,POS,,51693777,,
+quarkchain,L1,POS,,94568002,,20000000
+wanchain,L1,POS,,38735063,,35990000
+sonm,L1,POS,,8096048,,42000000
+reddcoin,L1,POS,,57375830,,
+metahash,L1,POS,,,,35972000
+cybermiles,L1,POS,,32971978,,30881582
+nxt,L1,POS,,31504317,,
+pchain,L1,POS,,12583979,,26674000
+fetchai,L1,POS,,,,21000000
+neblio,L1,POS,,16838670,,
+qlink,L1,POS,,,,19270800
+clams,L1,POS,,13543806,,
+substratum,L1,POS,,5258276,,13800000
+peercoin,L1,POS,,9205081,,
+navcoin,L1,POS,,13352151,,
+emotiq,L1,POS,,,,11800000
+tomocoin,L1,POS,,,,8575000
+genaronetwork,L1,POS,,7160814,,11362000
+bitbay,L1,POS,,6449490,,
+blackcoin,L1,POS,,4342741,,
+lition,L1,POS,,5457575,,4900000
+paytomat,L1,POS,,,,2787715
+vsystem,L1,POS,,,,556500
+chainspace,L1,POS,,,,
+codaprotocol,L1,POS,,,,
+harmony,L1,POS,,49359005,,
+nearprotocol,L1,POS,,,,12100000
+apollocurrency,L1,POS,,,,
+ankrnetwork,L1,POW,,18293830,,18700000
+bitcoin,L1,POW,,194587161847,,
+ethereum,L1,POW,,31550229885,,16000000
+litecoin,L1,POW,,7759871425,,
+bitcoincash,L1,POW,,7330633605,,
+bitcoinsv,L1,POW,,3539293936,,
+monero,L1,POW,,1525303870,,
+dash,L1,POW,,1415110440,,
+ethereumclassic,L1,POW,,879134943,,
+zcash,L1,POW,,716933934,,1000000
+waves,L1,POW,,191156041,,16000000
+dogecoin,L1,POW,,386897752,,
+bitcoingold,L1,POW,,469386512,,
+ravencoin,L1,POW,,201697713,,
+bytom,L1,POW,,239512183,,
+bitcoindiamond,L1,POW,,213154694,,
+digibyte,L1,POW,,144940289,,
+bytecoin,L1,POW,,160236183,,
+komodo,L1,POW,,157230018,,
+verge,L1,POW,,126951578,,
+elastos,L1,POW,,66196206,,94073200
+grin,L1,POW,,68754704,,
+hypercash,L1,POW,,212442805,,
+electroneum,L1,POW,,47557386,,40000000
+zcoin,L1,POW,,90845951,,
+0chain,L1,POW,,2906581,,39000000
+beam,L1,POW,,44045624,,25000000
+smartcash,L1,POW,,18399927,,
+hdac,L1,POW,,,,20000000
+kadena,L1,POW,,,,14875000
+namecoin,L1,POW,,12650493,,
+neuromation,L1,POW,,,,9819600
+usechain,L1,POW,,6580554,,7371800
+blockcollider,L1,POW,,,,7012829
+veriblock,L1,POW,,11873842,,7000000
+litecoincash,L1,POW,,6657677,,
+litecoincash,L1,POW,,6657677,,
+ioex,L1,POW,,,,1332000
+bitcoinprivate,L1,POW,,2607232,,
+litecoincash,L1,POW,,6657677,,
+litecoincash,L1,POW,,6657677,,
+callistonetwork,L1,POW,,,,
+boolberry,L1,POW,,6650963,,
+aeternity,L1,POW/POS,,148366082,,23584319
+pivx,L1,POW/POS,,37152950,,
+origonetwork,L1,POW/POS,,,,29862157
+emercoin,L1,POW/POS,,8455824,,
+metaverse,L1,POW/POS,,64538943,,
+spacemesh,L1,Proof of Space,,,,18000000
+arweave,L1,Proof of Space,,,,8700000
+chianetwork,L1,Proof of Space,,,,3395000
+burstcoin,L1,Proof of Space,,11500000,,
+spacemint,L1,Proof of Space,,,,
+oasislabs,L1,Tendermint,,,,45000000
+oneledger,L1,Tendermint,,1948994,,15000015
+bigchaindb,L1,Tendermint,,,,5370000
+Arwen,Cross Chain,DEX,,,,
+Tesseract,Cross Chain,DEX,,,,
+Thor,Cross Chain,DEX,,,,
+Poet,dApp,Data,,11600000,,
+AdEx,dApp,Data,,12376733,632,
+Streamr,dApp,Data,,,,27000000
+MediaChain,dApp,Data,,,,
+Winding Tree,dApp,Data,,,,14418196
+TruSet,dApp,Data,,,,
+Computable,dApp,Data,,,,
+Ocean Protocol,dApp,Data,,6128837,,26860000
+Dbrain,dApp,Data,,,,8200000
+Thore Coin,dApp,DeFi,Bundling,,,
+Set,dApp,DeFi,Bundling,,3,
+Basket Protocol,dApp,DeFi,Bundling,,,
+BSKT,dApp,DeFi,Bundling,,,
+Daxia,dApp,DeFi,Derivatives,,,
+UMA,dApp,DeFi,Derivatives,,,
+Market,dApp,DeFi,Derivatives,,,
+dYdX,dApp,DeFi,Derivatives,,,12000000
+CDx,dApp,DeFi,Derivatives,,,
+bZx,dApp,DeFi,Derivatives,,,
+Newdex,dApp,DeFi,DEX,,,3132000
+MetaMorph,dApp,DeFi,DEX,748669,187,
+Stox,dApp,DeFi,DEX,1207778,94,
+LatiumX,dApp,DeFi,DEX,587222,,
+Ink Protocol,dApp,DeFi,DEX,813545,234,15000000
+LendingBlock,dApp,DeFi,DEX,6552041,385,10000000
+Switcheo,dApp,DeFi,DEX,3086904,1447,
+AirSwap,dApp,DeFi,DEX,9396619,1092,33000000
+Hydro,dApp,DeFi,DEX,13135522,,
+Bancor,dApp,DeFi,DEX,,2987,153000000
+Kyber Network,dApp,DeFi,DEX,42089819,6584,52000000
+Loopring,dApp,DeFi,DEX,52319876,308,
+Digitex Futures,dApp,DeFi,DEX,,844,
+0x,dApp,DeFi,DEX,180554649,14657,24000000
+WhaleEx,dApp,DeFi,DEX,,,
+minereum,dApp,DeFi,DEX,,120,
+Uniswap,dApp,DeFi,DEX,,2343,
+The Token Store,dApp,DeFi,DEX,,1409,
+Swap Online,dApp,DeFi,DEX,,11,
+Republic Protocol,dApp,DeFi,DEX,,1458,34299022
+OasisDEX,dApp,DeFi,DEX,,627,
+TimeX,dApp,DeFi,DEX,,1,
+Lescovex DEX,dApp,DeFi,DEX,,133,
+IDEX,dApp,DeFi,DEX,13546485,20722,
+ForkDelta,dApp,DeFi,DEX,,8772,
+Expo,dApp,DeFi,DEX,,,
+SingularX,dApp,DeFi,DEX,,201,
+EasyTrade,dApp,DeFi,DEX,,,
+DutchX,dApp,DeFi,DEX,,75,
+DEXEOS,dApp,DeFi,DEX,,742,
+Ethfinex Trustless,dApp,DeFi,DEX,,180,
+OmiseGo DEX,dApp,DeFi,DEX,,,
+CryptopiaFeeShares,dApp,DeFi,Exchange Token,,,
+LEO Token,dApp,DeFi,Exchange Token,1764496181,,1000000000
+Cobinhood,dApp,DeFi,Exchange Token,1601006,,13078406
+LATOKEN,dApp,DeFi,Exchange Token,8684961,,18880673
+Coss,dApp,DeFi,Exchange Token,,,
+Bibox Token,dApp,DeFi,Exchange Token,42334339,,
+Huobi Token,dApp,DeFi,Exchange Token,1052039689,,300000000
+KuCoin Shares,dApp,DeFi,Exchange Token,145619875,,
+Binance Coin,dApp,DeFi,Exchange Token,4411000000,,
+Nectar Token,dApp,DeFi,Exchange Token,,,
+Lykke,dApp,DeFi,Exchange Token,,,
+Melonport,dApp,DeFi,Fund Management,,105,2900000
+Genesis Vision,dApp,DeFi,Fund Management,13699736,1022,2836732
+Fund Protocol,dApp,DeFi,Fund Management,,,
+AZTEC Protocol,dApp,DeFi,ICO,,,2100000
+Civic,dApp,DeFi,Identity,24568972,,35750000
+uPort,dApp,DeFi,Identity,,,
+Lendroid,dApp,DeFi,Lending,,,47500000
+WeTrust,dApp,DeFi,Lending,1888830,,5000000
+Ethlend,dApp,DeFi,Lending,,190,17860000
+Ripio,dApp,DeFi,Lending,,,44449592
+SALT,dApp,DeFi,Lending,6416306,,48500000
+Nexo,dApp,DeFi,Lending,63702533,1492,52500000
+Cred,dApp,DeFi,Lending,24635787,,26400000
+Trustlines,dApp,DeFi,Lending,,,
+Nuo,dApp,DeFi,Lending,,,
+Marble,dApp,DeFi,Lending,,,
+Dharma,dApp,DeFi,Lending,,,
+Compound,dApp,DeFi,Lending,,324,
+Request Network,dApp,DeFi,MISC,,,33600000
+Numerai,dApp,DeFi,Prediction Markets,,259,7500000
+STOX,dApp,DeFi,Prediction Markets,1207778,94,
+Veil,dApp,DeFi,Prediction Markets,2581231,,
+Gnosis,dApp,DeFi,Prediction Markets,24660215,318,
+TruStory,dApp,DeFi,Prediction Markets,,,3250000
+WBTC,dApp,DeFi,Stablecoins,,,
+Synthetix,dApp,DeFi,Stablecoins,,1416,
+DAI,dApp,DeFi,Stablecoins,89214019,,
+Paxos Standard,dApp,DeFi,Stablecoins,164757386,13857,
+Ampleforth,dApp,DeFi,Stablecoins,9094244,,
+Groundhog,dApp,DeFi,Subscriptions,,,
+8x Protocol,dApp,DeFi,Subscriptions,,,
+Dirt Protocol,dApp,DeFi,TCR,,,
+Horizon State,dApp,Governance,,,178,1100000
+DAOstack,dApp,Governance,,6589097,,30000000
+Aragon,dApp,Governance,,17146897,594,25000000
+DigixDAO,dApp,Governance,,52745069,,
+MakerDAO,dApp,Governance,,586000000,35474,
+OATH,dApp,Governance,,,,
+EOS Name Swaps,dApp,Governance,,,,
+Wings DAO,dApp,Governance,,,,
+BitNation,dApp,Governance,,,112,
+OpenLaw,dApp,Governance,,,,
+Mattereum,dApp,Governance,,,,
+Kleros,dApp,Governance,,2633043,192,2438580
+JUR,dApp,Governance,,,,
+GovernX,dApp,Governance,,,,
+Moloch DAO,dApp,Governance,,,,
+EOSIO Core Arbitration Forum,dApp,Governance,,,,
+Colony,dApp,Governance,,,,
+District0x,dApp,Marketplace,,10755819,1049,9000000
+Storm,dApp,Marketplace,,17522030,,30716420
+Cybermiles,dApp,Marketplace,,32971978,,30881582
+Odem,dApp,Marketplace,,57591457,248,
+SuperRare,dApp,Marketplace,,,110,
+RareBits,dApp,Marketplace,,,,6000000
+Origin Protocol,dApp,Marketplace,,,724,38105763
+OpenSea,dApp,Marketplace,,,1419,2120000
+Decentraland Marketplace,dApp,Marketplace,,,,
+Auctionity,dApp,Marketplace,,,363,
+Livepeer,dApp,offchain,Compute,,3821,
+iExec,dApp,offchain,Compute,,141,12000000
+Enigma,dApp,offchain,Compute,42449799,1217,45000000
+Golem,dApp,offchain,Compute,91371782,3843,
+Theta Network,dApp,offchain,Compute,117390422,311,
+TrueBit,dApp,offchain,Compute,,,
+FOAM,dApp,offchain,location,17552870,217,16200000
+Everipedia,dApp,offchain,Storage,,138,
+X Cloud,dApp,offchain,Storage,,89,
+TownCrier,dApp,Oracles,,,,
+Oraclize,dApp,Oracles,,,,
+Chainlink,dApp,Oracles,,1280184303,21399,32000000
+TRYBE,dApp,Social,,,,
+Bethereum,dApp,Social,,460597,604,
+DAV,dApp,Social,,,295,24500000
+KARMA,dApp,Social,,,3108,
+AidChain,dApp,Social,,,,
+Primas,dApp,Social,,4882827,426,1000000
+Sapien Network,dApp,Social,,,130,11740619
+CITY,dApp,Social,,,233,
+Murmur,dApp,Social,,,692,
+Minds,dApp,Social,,,141,7381300
+Lumeos,dApp,Social,,,1233,
+Giveth,dApp,Social,,,27,
+Kudos,dApp,Social,,,21,
+Cent,dApp,Social,,,84,
+Indorse,dApp,Social,,593884,91,9247392
+Discussions,dApp,Social,,,1,
+Catallax,dApp,Social,,,474,
+Lucidity,L2,Plasma,,,,
+Leverj.io,L2,Plasma,,,,
+OmiseGo,L2,Plasma,,350439501,,25000000
+Loom Network,L2,Plasma,,44037141,,45808270
+BankEX,L2,Plasma,,1423995,,70600000
+L4,L2,Plasma,,,,
+Plasma Group,L2,Plasma,,,,
+FourthState,L2,Plasma,,,,
+LeapDAO,L2,Plasma,,,,
+Skale Labs,L2,Side Chains,,,,9645000
+POA,L2,Side Chains,,,,
+Connext,L2,State Channels,,,,
+Fuel Games,L2,State Channels,,,,2400000
+Stack,L2,State Channels,,,,
+Liquidity Network,L2,State Channels,,1466198,,23613233
+Spankchain,dApp,Social,,6902064,453,6000000
+FunFair,L2,State Channels,,29774839,,
+PopChest,L2,State Channels,,,,
+Comit Network,L2,State Channels,,,,
+Althea,L2,State Channels,,,,
+Sprites,L2,State Channels,,,,
+Raiden,L2,State Channels,,,,
+CounterFactual,L2,State Channels,,,,
+Perun,L2,State Channels,,,,
+Machinomy,L2,State Channels,,,,
+Finality Labs,L2,State Channels,,,,
+Magmo,L2,State Channels,,,,
