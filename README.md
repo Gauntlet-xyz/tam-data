@@ -14,9 +14,9 @@ Here we show the comparative differences between `Market Capitulation`, `Money R
 | Column Name | Description                                    |
 |-------------|------------------------------------------------|
 | name        | name of the protocol                           |
-| g1          | first grouping                                 |
-| g2          | second grouping (optional)                     |
-| g3          | third grouping (optional)                      |
+| g1          | 1st grouping - Layer                           |
+| g2          | 2nd grouping (opt.)  - Sector/Consensus Mech.  |
+| g3          | 3rd grouping (opt.) - Subsector (dApps only)   |
 | market_cap  | market cap of protocol if applicable           |
 | mau         | monthly active users of protocol if applicable |
 | funding     | funding received by protocol if applicable     |
