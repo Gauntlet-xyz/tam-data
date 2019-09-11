@@ -247,7 +247,8 @@ STOX,dApp,DeFi,Prediction Markets,762453.0,94,
 Veil,dApp,DeFi,Prediction Markets,3905041.0,,
 Gnosis,dApp,DeFi,Prediction Markets,15891124.0,318,
 TruStory,dApp,DeFi,Prediction Markets,,,3250000.0
-WBTC,dApp,DeFi,MISC,,,
+WBTC,Cross Chain,Wrapped Assets,,,
+tBTC,Cross Chain,Wrapped Assets,,,
 Synthetix,dApp,DeFi,Stablecoins,,1416,30000000.0
 DAI,dApp,DeFi,Stablecoins,79666165.0,,
 Paxos Standard,dApp,DeFi,Stablecoins,234369948.0,13857,
