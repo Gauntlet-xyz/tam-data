@@ -8,7 +8,7 @@ Here we show the comparative differences between `Market Capitulation`, `Money R
 
 **Blog Post** [here]()
 
-**Visualization** [here](https://observablehq.com/@lelandlee/protocol-sizing-landscape-l1-l2-dapps) If you want to update the visualization with your own data, follow the `data.csv` file format and update the ```base = d3.csv(<url>)``` with your own url. Feel free to fork the code and make your own changes. This is the main reason why we chose to put the visualization into [observablehq](https://observablehq.com/), as it makes real time editing and forking straight forward.
+**Visualization** [here](https://observablehq.com/@lelandlee/protocol-sizing-landscape-l1-l2-dapps-fixed-height) If you want to update the visualization with your own data, follow the `data.csv` file format and update the ```base = d3.csv(<url>)``` with your own url. Feel free to fork the code and make your own changes. This is the main reason why we chose to put the visualization into [observablehq](https://observablehq.com/), as it makes real time editing and forking straight forward.
 
 ## data.csv format
 | Column Name | Description                                    |
