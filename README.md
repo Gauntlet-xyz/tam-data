@@ -1,14 +1,26 @@
 # tam-data
 
-Analysis to understand what is the market opportunity for both DApp and Layer 1 simulations along with everything in between.
+Data gathered on the market size for crypto infrastructure. Data sourced from:
+* [CoinGecko](https://www.coingecko.com/en)
+* [State of the dApps](https://www.stateofthedapps.com/)
+
+With additional information from:
+* [ICOBench](https://icobench.com/)
+* [ICODrops](https://icodrops.com/)
+* [ICOMarks](https://icomarks.com/)
+* [ICORating](https://icorating.com/)
+ 
+You can read more on [the blog post here]().
 
 ***
 ## Zoomable Icicles
-Here we show the comparative differences between `Market Capitulation`, `Money Raised`, `Users / Transactions`, `Category Count` of different blockchain protocols and tokens organized by different categories. Note that some categories have data points entirely missing. Example, it is difficult acquire transaction and user data for the long tail of layer 1s. However given this limitation we've constructed a lower and upper bound for all the metrics.
 
-**Blog Post** [here]()
 
-**Visualization** [here](https://observablehq.com/@lelandlee/protocol-sizing-landscape-l1-l2-dapps-fixed-height) If you want to update the visualization with your own data, follow the `data.csv` file format and update the ```base = d3.csv(<url>)``` with your own url. Feel free to fork the code and make your own changes. This is the main reason why we chose to put the visualization into [observablehq](https://observablehq.com/), as it makes real time editing and forking straight forward.
+**Visualization** [here](https://observablehq.com/@lelandlee/protocol-sizing-landscape-l1-l2-dapps-fixed-height)
+
+Here we show the comparative differences between `Market Cap`, `Money Raised`, `Users / Transactions`, `Category Count` of different blockchain protocols and tokens organized by different categories. Note that some categories have data points entirely missing. For example, it is difficult acquire transaction and user data for the long tail of layer 1s. However, given this limitation we've constructed a lower and upper bound for all the metrics.
+
+If you want to update the visualization with your own data, follow the `data.csv` file format and update the ```base = d3.csv(<url>)``` with your own url. Feel free to fork the code and make your own changes. This is the main reason why we chose to put the visualization into [observablehq](https://observablehq.com/), as it makes real time editing and forking straightforward.
 
 ## data.csv format
 | Column Name | Description                                    |
