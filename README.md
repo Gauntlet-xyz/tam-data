@@ -37,7 +37,7 @@ If you want to update the visualization with your own data, follow the `data.csv
 | mau         | monthly active users of protocol if applicable |
 | funding     | funding received by protocol if applicable     |
 
-Caveats on the Data
+Caveats on the Data:
 * All MAU data is on dApps rather than L1
 * MAU should not be seen as an additive metric
 * MAU is for dapp usage not ERC20 transfers
