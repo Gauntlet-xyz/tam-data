@@ -20,7 +20,7 @@ You can read more on [the blog post here]().
 
 Here we show the comparative differences between `Market Cap`, `Money Raised`, `Users / Transactions`, `Category Count` of different blockchain protocols and tokens organized by different categories. Note that some categories have data points entirely missing. For example, it is difficult acquire transaction and user data for the long tail of layer 1s. However, given this limitation we've constructed a lower and upper bound for all the metrics.
 
-If you want to update the visualization with your own data, follow the `data.csv` file format and update the ```base = d3.csv(<url>)``` with your own url. Feel free to fork the code and make your own changes. This is the main reason why we chose to put the visualization into [observablehq](https://observablehq.com/), as it makes real time editing and forking straightforward.
+If you want to update the visualization with your own data, follow the `data.csv` file format and update the ```base = d3.csv(<url>)``` with your own url. Feel free to fork the code and make your own changes. This is the main reason why we chose to put the visualization into [Observable](https://observablehq.com/), as it makes real time editing and forking straightforward.
 
 ## data.csv format
 | Column Name | Description                                    |
