@@ -13,6 +13,10 @@ With additional information from:
 You can read more on [the blog post here]().
 
 ***
+## Adding data
+
+Review the schema below to add or update data. [Here's an example commit](https://github.com/GauntletNetworks/tam-data/pull/1) - it's great to include a source with each update. You can test the CSV by forking it along with the visualization below, and updating the path as described to the forked file. 
+
 ## Zoomable Icicles
 
 
