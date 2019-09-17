@@ -20,7 +20,7 @@ Review the schema below to add or update data. [Here's an example commit](https:
 ## Zoomable Icicles
 
 
-**Visualization** [here](https://observablehq.com/@lelandlee/protocol-sizing-landscape-l1-l2-dapps-fixed-height)
+**Visualization** [here](https://observablehq.com/@mrjohnmorrow/crypto-market-size-map)
 
 Here we show the comparative differences between `Market Cap`, `Money Raised`, `Users / Transactions`, `Category Count` of different blockchain protocols and tokens organized by different categories. Note that some categories have data points entirely missing. For example, it is difficult acquire transaction and user data for the long tail of layer 1s. However, given this limitation we've constructed a lower and upper bound for all the metrics.
 
