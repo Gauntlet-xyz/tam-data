@@ -340,3 +340,8 @@ zcash,L1,POW,,335737062,,1000000
 zcoin,L1,POW,,47444590,,
 zenprotocol,L1,Masternodes,,2481406,,34850000
 zilliqa,L1,BFT,,65889161,,22000000
+nervos,L1,POW,,,,,
+Solana,L1,MISC,,,,20000000
+Dfinity,L1,MISC,,,,166900000
+Avalanche,L1,BFT,,,,6000000
+Terra,dApp,DeFi,Stablecoins,,32000000
